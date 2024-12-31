@@ -2,10 +2,10 @@
   "$schema": "file:///C:/Users/ljavi/Desktop/Nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "",
-    "name": "LCG (Minecraft 1.20.1)ad",
+    "name": "LCG (Minecraft 1.20.1)",
     "description": "LCG Running Minecraft 1.20.1 (Forge v47.3.0)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "23.139.82.215:25600",
+    "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
